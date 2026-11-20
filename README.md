@@ -1,8 +1,8 @@
 # Debee
 My first repository on GitHub.
-# 👋 Hey, I'm Divya!
+# 👋 Hey, I'm Divya! नमस्ते! आपका स्वागत है !
 
-Welcome to my little corner of GitHub!
+Welcome to my little corner of Experiments with AI!
 
 I'm a Product Designer exploring the intersection of design, technology, creativity, and code.
 
